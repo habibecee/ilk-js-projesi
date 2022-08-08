@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: auto;
+    
+   
+}
+
+div{
+    margin-left: 35% !important;
+    margin-top: 10% !important;
+    border: 10px solid red;
+    width: 40%;
+    height: auto;
+    
+}
+
+.btn{
+    margin-left: 20% !important;
+    margin-top: 5% !important;
+    padding: 20px !important;
+    font-size: 1rem !important;
+    transition: 1s ease-out !important;
+}
+/* .btn:hover{
+    background-color: #EB5353;
+} */
