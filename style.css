@@ -9,7 +9,7 @@ body{
    
 }
 
-div{
+#div-h1{
     margin-left: 35% !important;
     margin-top: 10% !important;
     border: 10px solid red;
@@ -18,13 +18,25 @@ div{
     
 }
 
-.btn{
+#in-order{
     margin-left: 20% !important;
     margin-top: 5% !important;
     padding: 20px !important;
-    font-size: 1rem !important;
+    font-size: 1.3rem !important;
     transition: 1s ease-out !important;
+    border: 5px dotted;
 }
-/* .btn:hover{
-    background-color: #EB5353;
-} */
+#randomly{
+    margin-left: 20% !important;
+    margin-top: 5% !important;
+    padding: 20px !important;
+    font-size: 1.3rem !important;
+    transition: 1s ease-out !important;
+    border: 5px dotted;
+}
+#div-buttons{
+   
+    width: 600px;
+    height: 600px;
+}
+
